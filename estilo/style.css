@@ -38,7 +38,6 @@ header > h1 {
 header > p {
   padding-bottom: 50px;
   font-size: 2vw;
-
 }
 
 header a,
@@ -61,7 +60,6 @@ section {
   font-size: 3.5vw;
   background-size: cover;
   background-attachment: fixed;
-
 }
 
 section p {
@@ -76,6 +74,7 @@ section.normal {
 section.imagem {
   background-color: rgb(59, 59, 59);
   color: white;
+  box-shadow: inset 10px 10px 50px rgb(0, 0, 0);
 }
 
 section.imagem > p {
